@@ -1,0 +1,326 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    position: relative;
+}
+button:hover{
+    box-shadow: 1px 2px 18px green;
+
+}
+/* page1 */
+#navbar{
+    display: flex;
+    
+}
+
+#logo{
+    height: 25px;
+    width: 30px;
+    background-image: url(Mountain-logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div a{
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.a:hover{
+    color: brown;
+    font-weight: 700;
+    text-transform:uppercase ;
+}
+.nav-menu1{
+   margin-left:750px ;
+}
+.logo-n{
+    margin-left: 50px;
+    font-size: large;
+    font-weight: 600;
+}
+/* hero section */
+#banner{
+    height: 350px;
+    width: 98%;
+    background-color: aqua;
+    background-image: url(beauty-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: fill;
+
+}
+h4{
+      text-align:start ;
+      margin-left: 100px;
+      font-size: x-large;
+      font-style: italic;
+      color: white;
+
+}
+.clean{
+    padding-top: 200px;
+}
+.banner-menu{
+    margin-bottom: 50px;
+}
+
+/* flex para */
+#flex{
+    display: flex;
+}
+.pic{
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+}
+#pic1{
+    background-image: url(Patent-Deep-Clean.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: fill;
+    box-shadow: 50px;
+}
+#pic2{
+    background-image: url(Body.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+#pic3{
+    background-image: url(images.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.para{
+    text-align: justify;
+}
+.btn{
+    border-radius: 30px;
+    height: 40px;
+    width: 150px;
+    background-color: aquamarine;
+}
+
+ /* page2  */
+ #page2{
+    display: flex;
+    background-color: aliceblue;
+ }
+ .div1{
+    height: 400px;
+    width: 700px;
+    margin-left: 50px;
+    background-image: url(photo.jpg);
+    background-size: cover;
+    object-fit: fill;
+ }
+ /* div2 start */
+ .div2{
+    height: 400px;
+    width: 700px;
+ }
+.btn2{
+    border-radius: 30px;
+    height: 40px;
+    width: 100px;
+    background-color: aquamarine;
+    margin-left: 80%;
+}
+p{
+    text-align: justify;
+}
+/* page3 start */
+#flex1{
+    display: flex;
+
+}
+.picture{
+    height: 300px;
+    width: 2500px;
+    margin-left: 40px;
+    background-color: aqua;
+}
+#pic4{
+    background-image: url(man-giving.jpeg);
+    object-fit: fill;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pic5{
+    background-image: url(man-giving.jpeg);
+    object-fit: fill;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn3{
+    border-radius: 30px;
+    height: 30px;
+    width: 100px;
+    margin-left: 80%;
+    background-color: aquamarine;
+}
+.btn4{
+    border-radius: 30px;
+    height: 30px;
+    width: 100px;
+    margin-left: 80%;
+    background-color: aquamarine;
+}
+
+.para2{
+    padding: 10px;
+}
+h2{
+    text-decoration: underline;
+}
+
+/* page4 start */
+
+
+.h1{
+    text-align: center;
+    font-style: italic;
+}
+.para3{
+    text-align: center;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-bottom: 10px;
+}
+#hr{
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 3px;
+    background-color: black;
+}
+#flex2{
+    display: flex;
+    background-color: antiquewhite;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.img1{
+    height: 250px;
+    width: 240px;
+    background-color: black;
+    margin-left: 10px;
+    padding-left: 10px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(Body.jpg);
+}
+.img2{
+    height: 250px;
+    width: 240px;
+    background-color: black;
+    margin-left: 10px;
+    padding-left: 10px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(Body.jpg);
+}
+.img3{
+    height: 250px;
+    width: 240px;
+    background-color: black;
+    margin-left: 10px;
+    padding-left: 10px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(Body.jpg);
+}
+.img4{
+    height: 250px;
+    width: 240px;
+    background-color: black;
+    margin-left: 10px;
+    padding-left: 10px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(Body.jpg);
+}
+.div3{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    
+}
+.pro-n{
+    color: black;
+    font-style: normal;
+}
+.rup{
+    text-align: center;
+}
+.cartbutton{
+    border-radius: 30px;
+    margin-left: 90px ;
+   
+    background-color: aquamarine;
+}
+.cartbutton1{
+    border-radius: 30px;
+    margin-left: 90px ;
+    background-color: aquamarine;
+}
+.cartbutton2{
+    border-radius: 30px;
+    margin-left: 90px ;
+    background-color: aquamarine;
+}
+.cartbutton3{
+    border-radius: 30px;
+    margin-left: 90px;
+    background-color: aquamarine;
+}
+
+/* page5 start */
+#div5{
+   display: flex;
+   background-color: beige;
+}
+#para4{
+    height: 300px;
+    width: 600px;
+    padding: 50px;
+    padding-left: 100px;
+}
+#form{
+    height: 400px;
+    width: 600px;
+    padding: 50px;
+}
+#name{
+    height: 30px;
+    width: 300px;
+}
+#email{
+    height: 30px;
+    width: 300px;
+}
+#sub{
+    height: 30px;
+    width: 300px;
+}
+#msg{
+    
+    width: 300px;
+}
+.p1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.p{
+    font-size: large;
+    font-weight: 600;
+    font-style: italic;
+}
+.submit{
+    margin-left: 210px;
+    border-radius: 10px;
+    background-color: aqua;
+    width: 100px; 
+    height: 25px;
+}
